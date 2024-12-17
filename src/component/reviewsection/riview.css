@@ -1,0 +1,45 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .carousel {
+    position: relative;
+    width: 600px;
+    overflow: hidden;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .slide img {
+    width: 600px;
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  .extra-section {
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .images {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .extra-image {
+    width: 150px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+  }
+  

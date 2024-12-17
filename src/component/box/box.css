@@ -1,0 +1,22 @@
+.box{
+    max-width:1120px;
+    border-style: solid;
+    border-width: 10px 10px 10px 10px;
+    border-color: #ff730b;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    padding: 30px 40px 30px 40px;
+    border-radius: 10px 10px 10px 10px;
+    margin:auto;
+}
+.mainbox{
+    margin-top: 50px;
+}
+p{
+    padding:10px;
+    text-align: center;
+    padding: 20px 0px;
+  background: #ff730b;
+    border-radius: 10px;
+    width: 83%;
+
+}

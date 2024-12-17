@@ -1,0 +1,34 @@
+.productlist{
+    max-width:1120px;
+    margin:auto;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto;
+    
+}
+button{
+    border: 3px solid #AD7419;
+    font-family: 'Hind Siliguri', sans-serif !important;
+    font-size: 26px;
+    font-weight: bold;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    display: inline-block;
+    cursor: pointer;
+   
+}
+
+.number-section{
+    font-family: 'Hind Siliguri', sans-serif !important;
+    text-align: center;
+    background: #ff730b;
+    width: 100%;
+    display: block;
+
+}

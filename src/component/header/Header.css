@@ -1,0 +1,19 @@
+.banner-section{
+   max-width:1120px;
+   
+   margin:auto;
+}
+.heading-class{
+    text-align: center;
+    padding: 20px 0px;
+    background: #ff730b;
+    border-radius: 10px;
+    width: 100%;
+    margin: 0 auto;
+    color:#fff;
+ font-size: calc(1.325rem + .9vw);
+ font-weight: 500;
+ line-height: 1.2;
+ 
+ 
+}
